@@ -1,0 +1,85 @@
+body {
+    background-image: url("Portfolio.jpg");
+    background-size: cover;
+     background-repeat: no-repeat;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.title {
+    color:rgb(215, 29, 91);
+    text-align: center; 
+    background-color:rgb(120, 232, 209);
+    text-shadow: 5px 5px 2px white;
+    text-decoration: solid;
+    letter-spacing: 5px;
+}
+
+p {
+    color:rgb(215, 29, 91);
+    text-align:justify;
+    background-color: rgb(120, 232, 209);
+    border-style:outset;
+    padding: 14%;
+    border-color: rgb(215, 29, 91);
+    border-radius: 50%;
+    
+
+}
+
+#subtitulo {
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    text-align: center;
+    font-size: 100%;
+    color:rgb(215, 29, 91);
+
+}
+
+img {
+    float:right;
+    width: 20%;
+    padding-right: 0,4%;
+    border-width: 40%;
+    border-style:groove;
+    border-radius: 10%;
+    border-color: rgb(12, 12, 12);
+}
+
+.image img {
+    float:left;
+    width: 25%;
+    padding-right: 0,4%;
+    border-width: 40%;
+    border-style:groove;
+    border-radius: 10%;
+    border-color: rgb(3, 3, 3);
+}
+
+.ejemplo {
+    color:rgb(215, 29, 91);
+    text-align:justify;
+    background-color: rgb(120, 232, 209);
+    border-style:outset;
+    padding: 14%;
+    border-color:rgb(215, 29, 91);
+    border-radius: 50%;
+}
+
+.boton {
+    cursor: pointer;
+    border-bottom:   rgb(236, 118, 206) 1% solid;
+    border-radius: 2%;
+    background-color: rgb(16, 1, 12);
+    color: rgb(236, 118, 206);
+    text-decoration: none;
+    padding: 0,5%;
+     }
+
+#Contacto {
+    color:rgb(215, 29, 91);
+    text-align:center;
+    background-color: rgb(120, 232, 209);
+    border-style:outset;
+    padding: 14%;
+    border-color: rgb(215, 29, 91);
+    border-radius: 50%;
+}
